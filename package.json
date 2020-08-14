@@ -1,0 +1,25 @@
+{
+  "name": "gulp-dynamic-import-css",
+  "version": "1.0.0",
+  "description": "gulp plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "zhijs",
+  "license": "MIT",
+  "dependencies": {
+    "plugin-error": "^1.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.11.0",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/traverse": "^7.11.0"
+  }
+}
